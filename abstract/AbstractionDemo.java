@@ -7,6 +7,6 @@ public class AbstractionDemo {
 
         GraphicObject rectangle = new Rectangle();
         rectangle.draw();
-        rectangle.resize();
+        rectangle.resize()
     }
 }
