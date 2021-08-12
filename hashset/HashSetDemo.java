@@ -1,5 +1,5 @@
 import java.util.*;
-//hashset is the class that stores values in hashtable
+//hashset is the class that stores values in hashtable and give random out put
 public class HashSetDemo{
     public static void main(String[] args) {
         HashSet<String> hashSet = new HashSet<>();
